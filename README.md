@@ -1,4 +1,4 @@
-# Card App
+# Card App UI
 
 A new Flutter project.
 
