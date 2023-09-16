@@ -1,2 +1,3 @@
-# CardApp_UI
- Credit Cards App UI
+# Card App
+
+A new Flutter project.
